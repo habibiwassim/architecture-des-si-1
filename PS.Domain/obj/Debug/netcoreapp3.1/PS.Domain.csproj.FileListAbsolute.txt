@@ -1,0 +1,10 @@
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Habib\source\repos\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb

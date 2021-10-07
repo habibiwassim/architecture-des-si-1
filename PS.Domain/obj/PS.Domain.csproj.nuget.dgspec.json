@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Domain\\PS.Domain.csproj": {}
+    "C:\\work\\GitHub\\architecture-des-si-1\\PS.Domain\\PS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Domain\\PS.Domain.csproj": {
+    "C:\\work\\GitHub\\architecture-des-si-1\\PS.Domain\\PS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Domain\\PS.Domain.csproj",
+        "projectUniqueName": "C:\\work\\GitHub\\architecture-des-si-1\\PS.Domain\\PS.Domain.csproj",
         "projectName": "PS.Domain",
-        "projectPath": "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Domain\\PS.Domain.csproj",
-        "packagesPath": "C:\\Users\\Habib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Domain\\obj\\",
+        "projectPath": "C:\\work\\GitHub\\architecture-des-si-1\\PS.Domain\\PS.Domain.csproj",
+        "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
+        "outputPath": "C:\\work\\GitHub\\architecture-des-si-1\\PS.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

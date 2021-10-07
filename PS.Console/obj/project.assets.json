@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Habib\\.nuget\\packages\\": {}
+    "C:\\Users\\habib\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Console\\PS.Console.csproj",
+      "projectUniqueName": "C:\\work\\GitHub\\architecture-des-si-1\\PS.Console\\PS.Console.csproj",
       "projectName": "PS.Console",
-      "projectPath": "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Console\\PS.Console.csproj",
-      "packagesPath": "C:\\Users\\Habib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Console\\obj\\",
+      "projectPath": "C:\\work\\GitHub\\architecture-des-si-1\\PS.Console\\PS.Console.csproj",
+      "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
+      "outputPath": "C:\\work\\GitHub\\architecture-des-si-1\\PS.Console\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Domain\\PS.Domain.csproj": {
-              "projectPath": "C:\\Users\\Habib\\source\\repos\\ProductStore\\PS.Domain\\PS.Domain.csproj"
+            "C:\\work\\GitHub\\architecture-des-si-1\\PS.Domain\\PS.Domain.csproj": {
+              "projectPath": "C:\\work\\GitHub\\architecture-des-si-1\\PS.Domain\\PS.Domain.csproj"
             }
           }
         }

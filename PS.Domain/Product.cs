@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PS.Domain
 {
-    public class Product: Concept
+    public class Product : Concept
     {
         public DateTime DateProd { get; set; }
         public string Description { get; set; }
@@ -12,13 +12,19 @@ namespace PS.Domain
         public double Price { get; set; }
         public int ProductId { get; set; }
         public int Quantity { get; set; }
-
-        public Category MyProperty { get; set; }
+        public Category MyCategory { get; set; }
         public IList<Provider> Providers { get; set; }
 
         public override void GetDetails()
         {
-            System.Console.WriteLine("Name: " + Name + "Price: " + Price);
+            System.Console.WriteLine("Name: " + Name +
+                "\n Price: " + Price
+                + "\n Quantity: " + Quantity);
+        }
+
+        public virtual void GetMyType()
+        {
+            System.Console.WriteLine("\n Product : UNKNOWN");
         }
     }
 }

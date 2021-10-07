@@ -12,7 +12,7 @@ namespace PS.Domain
 
         public override void GetDetails()
         {
-            System.Console.WriteLine("Name: " + Name + "CategoryId: " + CategoryId);
+            System.Console.WriteLine("Name: " + Name + "\nCategoryId: " + CategoryId);
         }
     }
 }
